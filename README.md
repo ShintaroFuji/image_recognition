@@ -1,1 +1,3 @@
 # image_recognition
+画像認識モデルResNetとStreamlitを使ったWebアプリ。
+コードのロジックをしっかりと理解しながら、既存のコードを活用してWebアプリを構築しました。
